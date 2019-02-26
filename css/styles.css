@@ -1,0 +1,11 @@
+
+/* Reset Rule */
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}body {
+	background-color: rgba(39, 174, 96, 1 );
+	/*background-image: url(../conservatory.jpg);*/
+	background-size: cover;
+}
